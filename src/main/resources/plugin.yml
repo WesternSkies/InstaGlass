@@ -1,0 +1,8 @@
+name: InstaGlass
+version: '${project.version}'
+main: my.westernskies.instaglass.InstaGlass
+api-version: 1.19
+authors: [ WesternSkies ]
+description:
+  Adds support for instamining glass, glowstone, and sea lanterns in Minecraft: Java Edition.
+website: https://github.com/WesternSkies
